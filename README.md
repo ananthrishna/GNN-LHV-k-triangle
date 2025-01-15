@@ -1,6 +1,9 @@
 # Multipartite Triangle Network Causal Structure encoded to Classical Ranked Neural Network Model 
 
-Will be added soon..
+Code for article "Is genuine nonlocality in the triangle network exclusive to pure states?"
+https://arxiv.org/abs/2501.08079
+
+Detail sections be added soon..
 
 There are two sections of code
 - one which i use for testing - there are both a) LHV & b) LHV-k rank models
